@@ -1,6 +1,6 @@
 # Curriculum Vitae — Ennio E. Piano
 
-Latest CV (PDF): https://github.com/epian2olemiss/cv/raw/main/cv.pdf
+Latest CV (PDF): https://epian2olemiss.github.io/cv/cv.pdf
 
 Source: `cv.Rmd` (R Markdown). Rebuild with:
 
