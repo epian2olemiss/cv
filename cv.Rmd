@@ -1,0 +1,295 @@
+---
+title: "Curriculum Vitae"
+author: "Ennio E. Piano"
+date: ""
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+  html_document:
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+**Department of Economics**  
+The University of Mississippi
+
+**Email:** [epiano@olemiss.edu](mailto:epiano@olemiss.edu)  
+**Website:** [https://sites.google.com/view/enniopiano/home](https://sites.google.com/view/enniopiano/home)  
+**Nationality:** Italian
+
+---
+
+## Employment
+
+**2024-present** Assistant Professor of Economics, The University of Mississippi
+
+**2019-2024** Assistant Professor of Economics, Middle Tennessee State University
+
+**2019-2024** Faculty, Political Economy Research Institute, Middle Tennessee State University
+
+---
+
+## Education
+
+**2019** PhD in Economics, George Mason University
+
+**2015** MA in Political Economy (*with distinction*), King's College London
+
+**2012** BA in History (*cum laude*), Università degli Studi di Siena
+
+---
+
+## Editorial Duties
+
+**2023-present** Associate Editor, *Public Choice*
+
+## Administrative Duties
+
+**2025-present** Graduate Program Coordinator, Department of Economics, University of Mississippi
+
+---
+
+## Research
+
+### Journal Articles
+
+**2026**
+
+Piano, E. E., and Rouanet, L. (2026). Constitutional Change among American Indian Tribes. *Public Choice, 207*, 261-295.
+
+**2025**
+
+Piano, Ennio E., and Alvarez, Sean-Patrick (2025). Servants of two masters: The economics of slave-hiring. *European Economic Review, 180*, 105185.
+
+Piano, E. E., Bauer, B. W., and Piano, C. E. (2025). Competition within the Church: Market entry and the rise of traditional Catholicism in the US. *Kyklos, 78*(4), 1405-1423.
+
+Piano, C., & Piano, E. E. (2025). Ite Missa Est: The Traditional Latin Mass in England and Wales, 2015–2023. *Journal of Economics, Management, and Religion*, 2550006.
+
+**2024**
+
+Piano, E. E., and Rouanet, L. (2024). The calculus of American Indian consent. *Public Choice 199*(3), 341-366.
+
+Piano, E. E. (2024). A theory of the city-state: The rise and decline of the rule of law in Medieval Italy. *Kyklos 77*(1), 97-117.
+
+**2023**
+
+Piano, E. E., and Piano, C. E. (2023). Contracting creativity. *European Review of Economic History 27*(3), 311-335.
+
+Piano, E. E., and Rouanet, L. (2023). Drafting the Great Army: The political economy of conscription in Napoleonic France. *The Journal of Economic History 83*(4), 1057-1100.
+
+Piano, E. E., and Piano, C. E. (2023). Bargaining over beauty: The economics of contracts in Renaissance art markets. *The Journal of Law and Economics 66*(2), 225-257.
+
+Piano, E. E., & Al-Bawwab R. (2023). The artist as entrepreneur. *The Review of Austrian Economics 36*, 23-41.
+
+**2022**
+
+Piano, E. E. (2022). Specialization and the firm in Renaissance Italian art. *Journal of Cultural Economics 46*, 659-697.
+
+Piano, E. E., and Hardy, T. (2022). Rent seeking and the decline of the Florentine school. *Public Choice 192*, 59-78.
+
+**2021**
+
+Piano, E. E., & Piano, C. E. (2021). In persona Christi Capitis: Agency problems when God is the principal. *Journal of Economics, Management, and Religion 2*(1), 2150002.
+
+Leeson, P. T., & Piano, E. E. (2021). The Golden Age of mercenaries. *European Review of Economic History 25*(3), 429-446.
+
+Piano, E. E. (2021). Organizing high-end restaurants. *Economics of Governance, 22*(2), 165-192.
+
+Piano, E. E., & Salter, A. W. (2021). The fundamental Coase of development: Property rights foundations of the effective state. *Journal of Institutional Economics, 17*(1), 37-52.
+
+**2020**
+
+Piano, E. E. (2020). Coase goes to war: Contract choice on the battlefield. *Revue d'Economie Politique, 130*(6), 1001-1023.
+
+Rouanet, L. & Piano, E. E. (2020). Filling the ranks: The *Remplacement militaire* in post-revolutionary France. *European Review of Economic History, 24*(4), 696-715.
+
+Piano, Ennio E., and Rouanet, L. (2020). Economic calculation and the organization of markets. *Review of Austrian Economics, 33*, 331-348.
+
+Candela, R., & Piano, E. (2020). The Art and Science of Economic Explanation: Introduction to the Special Issue in Honor of Yoram Barzel. *Journal of Institutional Economics, 16*(2), 119-126.
+
+Piano, E. E. & Rouanet, L. (2020). Desertion as theft. *Journal of Institutional Economics 16*(2), 169-183.
+
+Piano, E. E. & Carson, T. (2020). Scalp-taking. *Rationality and Society, 32*(1), 40–66.
+
+**2019**
+
+Murtazashvili, I., and Piano, E. E. (2019). More boon than bane. *The Independent Review, 24*(2), 249-272.
+
+Boettke, P. J., & Piano, E. E. (2019). Capital, Calculation, and Coordination. *Research in the History of Economic Thought and Methodology 37*, 9-24.
+
+Piano, E. E. (2019). State capacity and public choice: a critical survey. *Public Choice, 178*(1-2), 289-309.
+
+Murtazashvili, I., & Piano, E. E. (2019). Governance of shale gas development: Insights from the Bloomington school of institutional analysis. *The Review of Austrian Economics, 32*(2), 159-179.
+
+**2018**
+
+Lucas, D. S., Fuller, C. S., Piano, E. E., and Coyne, C. J. (2018). Visions of entrepreneurship policy. *Journal of Entrepreneurship and Public Policy 7*(4), 336-356.
+
+Piano, E. E. (2018). *Out*law and economics: Biker gangs and club goods. *Rationality and Society. 30*, 350-376.
+
+Fuller, Caleb, Lucas, David S., and Piano, Ennio E. (2018). Rooking the state. *International Review of Law and Economics 55*, 12-20.
+
+**2017**
+
+Boettke, P. J., Palagashvili, L., and Piano, E. E. (2017). Federalism and police: An applied theory of fiscal attention. *Arizona State Law Journal 49*, 907-933.
+
+Piano, E. E. (2017). Free riders: The economics and organization of outlaw motorcycle gangs. *Public Choice 171*, 3-4:283-301.
+
+**2016**
+
+Boettke, P. J. and Piano, E. E. (2016). Baumol's productive and unproductive entrepreneurship after 25 years. *Journal of Entrepreneurship and Public Policy 5*, 2:130-144.
+
+### Books
+
+**2018**
+
+Murtazashvili, I., and Piano, E. E. (2018). *The political economy of fracking: Private property, polycentricity, and the shale revolution.* Routledge.
+
+**2017**
+
+Palagashvili, L., Skarbek, D., and Piano, E. E. (2017). *The Rise and Fall of Institutions: A Modern Survey of the Austrian Contribution to the Economic Analysis of Institutions*. Cambridge: Cambridge University Press.
+
+### Book Chapters
+
+Candela, Rosolino and Piano, Ennio E. (2018). Transition economies: Rule of law and credible commitment. In Marciano A. (Ed). *Encyclopedia of law and economics*. New York: Springer.
+
+Candela, Rosolino and Piano, Ennio E. (2018). Rule of Law. In Marciano A. (Ed). *Encyclopedia of law and economics*. New York: Springer.
+
+Candela, Rosolino and Piano, Ennio E. (2018). Rule of law and economic performance. In Marciano A. (Ed). *Encyclopedia of law and economics*. New York: Springer.
+
+Piano, Ennio E. and Boettke, Peter J. (2018). Rationality of the individual and rationality of the system. In Di Iorio, F. (Ed). *The mystery of rationality: Mind beliefs and social science*, New York: Springer.
+
+Boettke, Peter J. and Piano, Ennio E. (2019). Libertarianism and Public Choice. In Congleton et al. (Eds). *Oxford handbook of public choice*. Oxford: Oxford University Press.
+
+Boettke, Peter J., and Piano, Ennio E. (2019). The Hayek drama at the LSE. In Cord R. (Ed). *Edited volume on the history of economics at the London School of Economics.* New York: Palgrave-Macmillan.
+
+Leeson, Peter T., and Piano, Ennio E. (2025). Property Rights and Public Choice. In Jong-A-Pin, R., & Bjørnskov, C. (Eds.). (2025). *Elgar Encyclopedia of Public Choice* Edward Elgar Publishing.
+
+### Book Reviews
+
+Piano, Ennio E. (2023). Risky business? A review of Jonathan Nelson & Richard Zeckhauser's Risk in Renaissance Art: Production, Purchase and Reception. *Journal of Cultural Economics.*
+
+### Working Papers
+
+Piano, Ennio E., Harris, Colin, and Piano, Clara E. "Reformatio in Capite et in Membris: The Effect of Protestant Entry on Managerial Personnel Selection in the Catholic Church."
+
+Piano, Ennio E., and Petach, Luke. "Religion and the Rise of Feminism: Ideology, Market Power, and Gender in Religious Labor Markets." Revise and resubmit, *Explorations in Economic History*.
+
+Piano, Clara E., and Piano, Ennio E. "The Medieval Origins of Spousal Consent." Under review.
+
+Piano, Ennio E., and Shah, Rohan. "From Club to Gang: The Case of Outlaw Motorcycle Clubs." Under review.
+
+Piano, Ennio E. "Economic explanations."
+
+### Work in Progress
+
+- Feminization and Religious Participation: Evidence from the American Church (with Luke Petach)
+- The Economics of (Late Medieval) Tournaments
+- The organization of the barbering industry (with Caleb Fuller)
+- The Political Economy of the Nuraghi
+
+---
+
+## Teaching
+
+**Ole Miss**
+
+- Econ 202: Principles of Microeconomics
+- Econ 307: Applied Price Theory
+- Econ 312: Law & Economics
+
+**MTSU**
+
+- Econ 2410: Principles of Macroeconomics (Honors)
+- Econ 2420: Principles of Microeconomics (Honors)
+- Hon 3500: The Economics of Religion (Honors)
+- Econ 6660: History of Economic Thought (PhD)
+- Econ 7410: Public Choice (PhD)
+
+**GMU**
+
+- Econ 365: Topics in Economic History
+- Econ 309: Economic Problems of Public Policy
+- Econ 340: Introduction to Mathematical Economics
+
+---
+
+## Awards and Fellowships
+
+**2025-'26** Edmonds Junior Research Award in the Social Sciences (Ole Miss)
+
+**2024** SDAE Best Paper in Austrian Economics
+
+**2023** State Farm Outstanding Professor Award (MTSU)
+
+**2022** Reviewer of the year, *The Journal of Institutional Economics*
+
+**2022** E.W. "Wink" Midgett Distinguished Research Award (MTSU)
+
+**2019** Department of Economics' Kirzner Award for Best Dissertation (GMU)
+
+**2018** Don Lavoie Memorial Prize for Best Graduate Student Paper, Southern Economic Association Conference
+
+**2018-'19** Bradley fellow, Institute for Intercollegiate Studies
+
+**2018-'19** Humane Studies fellow, Institute for Humane Studies
+
+**2018-'19** Graduate fellow, F.A. Hayek Advanced Program in Politics, Philosophy, and Economics, George Mason University
+
+**2017-'18** Humane Studies fellow, Institute for Humane Studies
+
+**2017-'18** Teaching fellow, Department of Economics, George Mason University
+
+**2017-'18** Graduate fellow, F.A. Hayek Advanced Program in Politics, Philosophy, and Economics, George Mason University
+
+**2016-'17** Graduate fellow, F.A. Hayek Advanced Program in Politics, Philosophy, and Economics, George Mason University
+
+**2015-'16** Graduate fellow, F.A. Hayek Advanced Program in Politics, Philosophy, and Economics, George Mason University
+
+**2015** Best MA student, Department of Political Economy, King's College London
+
+**2015** Best MA dissertation, Department of Political Economy, King's College London
+
+---
+
+## Referee
+
+*National Science Foundation, American Economic Journal: Applied Economics, American Political Science Review, European Economic Review, Journal of Economic History, Journal of Economic Behavior and Organization, Public Choice, Economic Inquiry, European Review of Economic History, Structural Change and Economic Dynamics, Journal of Regulatory Economics, Journal of Institutional Economics, Constitutional Political Economy, Review of Austrian Economics, Journal of Bioeconomics, Journal of Public Finance and Public Choice, Revue d'Economie Politique, Journal of Private Enterprise, Journal of Entrepreneurship and Public Policy, Theory & Society, The Independent Review*
+
+---
+
+## References
+
+**Peter J. Boettke**  
+Department of Economics  
+George Mason University  
+4400 University Drive  
+Fairfax, VA 22030 U.S.A.  
+pboettke@gmu.edu
+
+**Peter T. Leeson**  
+Department of Economics  
+George Mason University  
+4400 University Drive  
+Fairfax, VA 22030 U.S.A.  
+pleeson@gmu.edu
+
+**William F. Shughart II**  
+Department of Economics and Finance  
+Utah State University  
+Logan, UT 84322 U.S.A.  
+william.shughart@usu.edu
+
+**Christopher J. Coyne**  
+Department of Economics  
+George Mason University  
+4400 University Drive  
+Fairfax, VA 22030 U.S.A.  
+ccoyne3@gmu.edu
+
+---
+
+*Last updated: `r format(Sys.Date(), "%B %d, %Y")`*

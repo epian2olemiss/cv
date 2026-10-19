@@ -1,0 +1,6 @@
+*.log
+*.aux
+*.tex
+.Rhistory
+.DS_Store
+cv_files/
